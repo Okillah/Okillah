@@ -1,3 +1,6 @@
+Web Developer
+Software Engineer 
+
 - 👋 Hi, I’m @Okillah
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
